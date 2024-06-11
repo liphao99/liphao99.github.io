@@ -45,9 +45,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023* Weihai Talent Scholarship, Tsinghua University. 
+- *2023* Ordos Talent Scholarship, Tsinghua University. 
 - *2020* National Scholarship, Ministry of Education of P.R. China.
-- *2019* National 1st Award, [CUMCM](http://www.mcm.edu.cn/). China.
+- *2019* National 1st Award, [CUMCM](http://www.mcm.edu.cn/), China.
 
 # 📖 Educations
 - *2021.09 - 2024.06*, Master, Tsinghua University. 
