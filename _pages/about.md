@@ -19,7 +19,7 @@ redirect_from:
 
 
 
- I work at Tongyi Lab<img src='../images/tongyi.png'>, Alibaba Group<img src='../images/alibaba.png' style='width: 6em;'>, as an AI researcher now in Hangzhou.
+ I work at Tongyi Lab <img src='../images/tongyi.png' style='width: 2em'> , Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as an AI researcher now in Hangzhou.
 
  I graduated from Wuhan University with a bachelor’s degree and Tsinghua University with a master's degree, advised by Prof. [Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Currently, my research topic is 3D vision, with a particular focus on 3D reconstruction and generation. Click [cv](../assets/cv.pdf) for more details.
 
