@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd-Year Master student at Tsinghua University, under the guidance of Prof. Haoqian Wang. I got B.Eng. degree in Measurement and control technology and instruments at Southeast University. During my study in Tsinghua University, I spent a good time with Prof. Yebin Liu and Prof. Hanspeter Pfister.
 
-Currently, my research topic is 3D computer vision, with a particular focus on 3D reconstruction and generation.and 3D human reconstruction.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+ I work at Tongyi Lab<img src='../images/tongyi.png'>, Alibaba Group<img src='../images/alibaba.png' style='width: 6em;'>, as an AI researcher now in Hangzhou.
+
+ I graduated from Wuhan University with a bachelor’s degree and Tsinghua University with a master's degree, advised by Prof. [Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Currently, my research topic is 3D vision, with a particular focus on 3D reconstruction and generation. Click [cv](../assets/cv.pdf) for more details.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 I join Tongyi Lab<img src='../images/tongyi.png'>, Alibaba Group<img src='../images/alibaba.png' style='width: 6em;'>, as a 3D vision research scientist in Hangzhou, China!
 
 # 📝 Publications 
 

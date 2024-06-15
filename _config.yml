@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Peihao Li（李沛昊）"
+title                    : "Peihao Li"
 description              : "Master at Tsinghua University, China. Focusing on 3D vision, reconstruction and generation."
 repository               : "liphao99/liphao99.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,7 +27,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=LYX4AOEAAAAJ"
   email            : "liphao99@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
