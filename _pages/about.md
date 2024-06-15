@@ -33,18 +33,6 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/nerfms.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +45,7 @@ redirect_from:
 </div>
 </div>
 
-- ``CVPR 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_NeRFVS_Neural_Radiance_Fields_for_Free_View_Synthesis_via_Geometry_CVPR_2023_paper.html), Chen Yang, **Peihao Li**, et al.
+- ``CVPR 2023`` [NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_NeRFVS_Neural_Radiance_Fields_for_Free_View_Synthesis_via_Geometry_CVPR_2023_paper.html), Chen Yang, **Peihao Li**, et al.
 
 - ``arxiv`` [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704), Dongbin Zhang, Chuming Wang, Weitao Wang, **Peihao Li**, et al.
 
