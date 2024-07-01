@@ -30,6 +30,7 @@ redirect_from:
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 I join Tongyi Lab <img src='../images/tongyi.png' style='width: 2em'> , Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision research scientist in Hangzhou, China!
+- - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024!
 
 # 📝 Publications 
 
@@ -44,10 +45,11 @@ redirect_from:
 - NeRF-MS trains neural radiance fields from multiple sequences captured by different sensors and at different times. 
 </div>
 </div>
+- ``ECCV 2024`` [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704), Dongbin Zhang, Chuming Wang, Weitao Wang, **Peihao Li**, et al.
 
 - ``CVPR 2023`` [NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_NeRFVS_Neural_Radiance_Fields_for_Free_View_Synthesis_via_Geometry_CVPR_2023_paper.html), Chen Yang, **Peihao Li**, et al.
 
-- ``arxiv`` [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704), Dongbin Zhang, Chuming Wang, Weitao Wang, **Peihao Li**, et al.
+
 
 
 # 🎖 Honors and Awards
