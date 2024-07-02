@@ -30,7 +30,7 @@ redirect_from:
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 I join Tongyi Lab <img src='../images/tongyi.png' style='width: 2em'> , Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision research scientist in Hangzhou, China!
-- - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024!
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024!
 
 # 📝 Publications 
 
