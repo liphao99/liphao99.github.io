@@ -19,7 +19,7 @@ redirect_from:
 
 
 
- I work at Tongyi Lab <img src='../images/tongyi.png' style='width: 2em'> , Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as an AI researcher now in Hangzhou.
+ I work at Institute for Intelligent Computing, Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as an AI algorithm engineer now in Hangzhou.
 
  I graduated from Wuhan University with a bachelor’s degree and Tsinghua University with a master's degree, advised by Prof. [Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Currently, my research topic is 3D vision, with a particular focus on 3D reconstruction and generation. 
  
@@ -29,7 +29,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 I join Tongyi Lab <img src='../images/tongyi.png' style='width: 2em'> , Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision research scientist in Hangzhou, China!
+- *2024.07*: &nbsp;🎉🎉 I join Institute for Intelligent Computing, Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision algorithm engineer in Hangzhou, China.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024!
 
 # 📝 Publications 
