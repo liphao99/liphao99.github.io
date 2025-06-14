@@ -36,14 +36,51 @@ redirect_from:
 - *2024.07*: &nbsp;I join Tongyi Lab, Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision algorithm researcher in Hangzhou, China.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024!
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lhm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds](https://arxiv.org/pdf/2503.10625)
+
+Lingteng Qiu*, Xiaodong Gu*, **Peihao Li\***, Qi Zuo*, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan
+Guanying Chen†, Zilong Dong†, Liefeng Bo
+
+[**Project**](https://aigc3d.github.io/projects/LHM/)\|[![Code](https://img.shields.io/github/stars/aigc3d/LHM?label=Github%20%E2%98%85&logo=github&color=C8C)](https://github.com/aigc3d/LHM)\|[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace_Space-blue)](https://huggingface.co/spaces/DyrusQZ/LHM)\|
+[![ModelScope](https://img.shields.io/badge/%20ModelScope%20-Space-blue)](https://www.modelscope.cn/studios/Damo_XR_Lab/LHM) 
+-  LHM reconstructs an animatable human avatar in a
+ single feed-forward pass in seconds. The resulting model supports real-time rendering and pose-controlled animation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025, best paper award candidate</div><img src='images/nova3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation](https://arxiv.org/pdf/2506.07698)
+
+Yuxiao Yang*, **Peihao Li\***, Yuhong Zhang, Junzhe Lu, Xianglong He, Minghan Qin, Weitao Wang, Haoqian Wang†
+
+-  NOVA3D unleashes geometric 3D prior from a video diffusion model to generate high-quality textured meshes from input image.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/MaQ.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Motions as Queries: One-Stage Multi-Person Holistic Human Motion Capture](https://cvpr.thecvf.com/virtual/2025/poster/32510)
+
+Kenkun Liu*, Yurong Fu*, Weihao Yuan*, Jing Lin, **Peihao Li**, Xiaodong Gu, Lingteng Qiu, Haoqian Wang, Zilong Dong, Xiaoguang Han†
+
+- Motions as Queries integrates the detector, tracker, and human pose and shape estimator together, which can simultaneously capture the motions of all individuals in one shot.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/gs_wild.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704)
 
-Dongbin Zhang, Chuming Wang, Weitao Wang, **Peihao Li**, Minghan Qin, Haoqian Wang†
+Dongbin Zhang*, Chuming Wang*, Weitao Wang, **Peihao Li**, Minghan Qin, Haoqian Wang†
 
 [**Project**](https://eastbeanzhang.github.io/GS-W/)
 - With an unconstrained image collection input, GS-W can render novel views with appearance tuning, achieving state-of-the-art quality and faster rendering speed.
@@ -62,7 +99,7 @@ Dongbin Zhang, Chuming Wang, Weitao Wang, **Peihao Li**, Minghan Qin, Haoqian Wa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/nerfvs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/nerfvs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_NeRFVS_Neural_Radiance_Fields_for_Free_View_Synthesis_via_Geometry_CVPR_2023_paper.html)
