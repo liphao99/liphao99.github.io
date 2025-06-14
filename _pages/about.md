@@ -19,9 +19,9 @@ redirect_from:
 
 
 
- I work at Institute for Intelligent Computing, Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as an AI algorithm engineer now in Hangzhou.
+ I work at Institute for Tongyi Lab <img src='../images/tongyi.png' style='width: 1.5em;'>, Alibaba Group, as a 3D vision researcher now in Hangzhou.
 
- I graduated from Wuhan University with a bachelor’s degree and Tsinghua University with a master's degree, advised by Prof. [Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Currently, my research topic is 3D vision, with a particular focus on 3D reconstruction and generation. 
+ I graduated from Wuhan University with a bachelor’s degree and Tsinghua University with a master's degree, advised by Prof. [Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Currently, my research topic is 3D vision, with a particular focus on 3D generation and human avatar. 
  
  <!-- Click [cv](../assets/cv.pdf) for more details. -->
 
@@ -29,25 +29,51 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 I join Institute for Intelligent Computing, Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision algorithm engineer in Hangzhou, China.
+- *2025.06*: &nbsp;🎉🎉 Our Paper Nova3D is awarded as best paper candidate and best student paper candidate in ICME.
+- *2025.04*: &nbsp;🎉🎉 Celebrate! Our GitHub project [LHM](https://github.com/aigc3d/LHM) has reached 2000 stars!
+- *2025.03*: &nbsp;We release LHM, a feedforward large animatable human reconstruction model.
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
+- *2024.07*: &nbsp;I join Tongyi Lab, Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision algorithm researcher in Hangzhou, China.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/gs_wild.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704)
+
+Dongbin Zhang, Chuming Wang, Weitao Wang, **Peihao Li**, Minghan Qin, Haoqian Wang†
+
+[**Project**](https://eastbeanzhang.github.io/GS-W/)
+- With an unconstrained image collection input, GS-W can render novel views with appearance tuning, achieving state-of-the-art quality and faster rendering speed.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/nerfms.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NeRF-MS: Neural Radiance Fields with Multi-Sequence](https://openaccess.thecvf.com/content/ICCV2023/html/Li_NeRF-MS_Neural_Radiance_Fields_with_Multi-Sequence_ICCV_2023_paper.html)
 
-**Peihao Li**, Shaohui Wang, Chen Yang, Bingbing Liu, Weichao Qiu, Haoqian Wang
+**Peihao Li**, Shaohui Wang, Chen Yang, Bingbing Liu, Weichao Qiu†, Haoqian Wang†
 
 [**Project**](https://nerf-ms.github.io/) 
 - NeRF-MS trains neural radiance fields from multiple sequences captured by different sensors and at different times. 
 </div>
 </div>
-- ``ECCV 2024`` [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704), Dongbin Zhang, Chuming Wang, Weitao Wang, **Peihao Li**, et al.
 
-- ``CVPR 2023`` [NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_NeRFVS_Neural_Radiance_Fields_for_Free_View_Synthesis_via_Geometry_CVPR_2023_paper.html), Chen Yang, **Peihao Li**, et al.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/nerfvs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_NeRFVS_Neural_Radiance_Fields_for_Free_View_Synthesis_via_Geometry_CVPR_2023_paper.html)
+
+Chen Yang, **Peihao Li**, Zanwei Zhou, Shanxin Yuan, Bingbing Liu, Xiaokang Yang, Weichao Qiu, Wei Shen†
+
+-  NeRFVS significantly reduces the distortions and floaters to achieve indoor scene free view synthesis.
+</div>
+</div>
+
+
 
 
 
