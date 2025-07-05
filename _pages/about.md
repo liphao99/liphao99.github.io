@@ -40,7 +40,7 @@ redirect_from:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lhm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/lhm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds](https://arxiv.org/pdf/2503.10625)
@@ -77,7 +77,7 @@ Kenkun Liu\*, Yurong Fu\*, Weihao Yuan\*, Jing Lin, **Peihao Li**, Xiaodong Gu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/SLGS.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/SLGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SLGaussian: Fast Language Gaussian Splatting in Sparse Views](https://arxiv.org/pdf/2412.08331)
