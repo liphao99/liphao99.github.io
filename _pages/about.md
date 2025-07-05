@@ -88,7 +88,7 @@ Kangjie Chen\*, BingQuan Dai\*, Minghan Qin, Dongbin Zhang, **Peihao Li**, Yings
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/gs_wild.png' alt="sym" width="100%"></div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/gs_wild.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
