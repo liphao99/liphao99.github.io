@@ -29,8 +29,10 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our Paper NOVA3D is selected as ICME 2025 Best Paper Candidate and Best Student Paper Candidate.
-- *2025.04*: &nbsp;🎉🎉 Celebrate! Our GitHub project [LHM](https://github.com/aigc3d/LHM) has reached 2000 stars!
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by MM 2025!
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025!
+- *2025.06*: &nbsp;🎉🎉 Our Paper NOVA3D is selected as ICME 2025 **Best Paper Candidate** and **Best Student Paper Candidate**.
+- *2025.04*: &nbsp;🎉🎉 Celebrate! Our GitHub project [LHM](https://github.com/aigc3d/LHM) has reached **2000 stars**!
 - *2025.03*: &nbsp;🎉🎉 We release LHM, a feedforward large animatable human reconstruction model.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
 - *2024.07*: &nbsp;I join Tongyi Lab, Alibaba Group <img src='../images/alibaba.png' style='width: 6em;'> , as a 3D vision algorithm researcher in Hangzhou, China.
@@ -74,6 +76,19 @@ Kenkun Liu\*, Yurong Fu\*, Weihao Yuan\*, Jing Lin, **Peihao Li**, Xiaodong Gu, 
 - Motions as Queries integrates the detector, tracker, and human pose and shape estimator together, which can simultaneously capture the motions of all individuals in one shot.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/SLGS.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SLGaussian: Fast Language Gaussian Splatting in Sparse Views](https://arxiv.org/pdf/2412.08331)
+
+Kangjie Chen\*, BingQuan Dai\*, Minghan Qin, Dongbin Zhang, **Peihao Li**, Yingshuang Zou, Haoqian Wang†
+
+- SLGaussian is a feedforward method for constructing 3D semantic fields from sparse viewpoints, allowing direct inference of 3DGS-based scenes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/gs_wild.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/gs_wild.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
